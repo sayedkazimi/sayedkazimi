@@ -1,7 +1,7 @@
 # Welcome to my Profile
  👋 Hi there, I’m Sayed Kazimi
 ### I can work with the following programming or scripting languages:
-- HTML, CSS and SCSS, JavaScript, TypeScript 
+- HTML, CSS / SCSS, JavaScript, TypeScript, Razor pages
 - C++, C#, Python
 - SQL and MS SQL Server
 - Reactjs, Angularjs, Vuejs, ASP.Net core MVC

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Welcome to my profile, I'm Sayed Kazimi, Nice to see you here!
+## Welcome to my profile. I'm Sayed Kazimi, a full stack web developer and mobile App developer. Glad to see you here!
 
 ### My Android Apps:
 
@@ -10,20 +10,22 @@ Check the app on Google Play by clicking [here](https://play.google.com/store/ap
 
 This app helps you search, learn and practice HTTP reponse codes or http status codes. This app is a great reference for http status codes. There is also a very helpful QUIZ game inside the app about status codes.
 
-#### Dream Board
+#### Drawing and Painting
 
-Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.dreamboard).
+Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.drawing_painting).
 
 This is a drawing application or a digital board that helps you draw anything you want.
 
 __Features__
 
-1. Change board's background color to any color you want.
-2. Change pen size to any size you want.
-3. Change pen color to any color you want.
-4. Change pen color transparency.
+1. Draw with any background color to any color you want.
+2. Draw with any pen size to any size you want.
+3. Draw with any pen color to any color you want.
+4. Set the pen color transparency.
 5. Change board's dimension(width and height) to any dimension you want.
 6. Save your drawing on your device as image.
+7. Open images, crop, draw on them,...save to your mobile
+8. Set the background to any color or tranparent.
 
 #### Color Reference
 

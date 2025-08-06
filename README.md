@@ -45,7 +45,7 @@ __Features__
 6. Copy color values, share and use it anywhere you want.
 
 
-#### Text Editor or Code Editor
+#### Text Editor or Notepad
 
 Check the App on Google Play Store by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.texteditor).
 

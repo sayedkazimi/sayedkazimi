@@ -1,63 +1,80 @@
-# Hi there 👋
+# Hello there
 
-## Welcome to my profile. I'm Sayed Kazimi, a full stack web developer and mobile App developer. Glad to see you here!
+Welcome to my profile. I'm Sayed Kazimi, a full stack web developer and mobile App developer. Glad to see you here and nice to meet you.
 
 ### My Android Apps:
 
-#### HTTP Response code
+#### HTTP Response / Staus Code
 
-Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.httpresponsecode).
+Check the App on Google Play Store by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.httpresponsecode).
 
-This app helps you search, learn and practice HTTP reponse codes or http status codes. This app is a great reference for http status codes. There is also a very helpful QUIZ game inside the app about status codes.
+This App helps you search, learn and practice HTTP reponse codes or http status codes. This App is a great reference for http status codes. There is also a nice and helpful QUIZ game inside the App that you can play with the status codes to learn and memorize them faster.
 
 #### Drawing and Painting
 
-Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.drawing_painting).
+Check the app on Play Store [here](https://play.google.com/store/apps/details?id=com.aqyanoos.drawing_painting).
 
 This is a drawing application or a digital board that helps you draw anything you want.
 
 __Features__
 
-1. Draw with any background color to any color you want.
-2. Draw with any pen size to any size you want.
-3. Draw with any pen color to any color you want.
-4. Set the pen color transparency.
-5. Change board's dimension(width and height) to any dimension you want.
-6. Save your drawing on your device as image.
-7. Open images, crop, draw on them,...save to your mobile
-8. Set the background to any color or tranparent.
+1. Draw with any background color.
+2. Draw with any pen size.
+3. Draw with any pen color.
+4. Set transparency for the pen color.
+5. Change board's dimension(width and height) to any dimension.
+6. Save your drawing on your device as an image.
+7. Open images, crop, draw on them,...save to your mobile phone.
+8. Set the background to any color or to tranparent.
+9. Install the App and explore more.
 
 #### Color Reference
 
-Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.colorreference).
+Check the App on Play Store [here](https://play.google.com/store/apps/details?id=com.aqyanoos.colorreference).
 
-This app helps you with colors. If you deal with colors then this is a great app for you.
-With this app you can get the Hex value, RGB value, HSL value and name of any color in the list and there is a great color picker that helps you pick/choose any color you want.
+This App helps you with colors. If you deal with colors then this is a great App for you.
+With this App you can get the Hex value, RGB value, HSL value and the name of any color in the list. And there is a great color picker that helps you pick/choose any color you want.
 
 __Features__
 
-1. Get Hex, RGB, HSL and name of most used colors.
+1. Get Hex, RGB, HSL value of the color and the color name in English.
 2. Pick any color you want and get its Hex and RGB value.
 3. Covert Hex to RGB.
 4. Convert RGB to Hex.
-5. Preview any color by name or value(if you dont know how a color looks like then you can preview it using the color tools inside this app).
-6. Copy color values to clipboard and use it anywhere you want.
+5. Preview any color by name or value(if you dont know how a color looks like then you can preview it using the color tools inside this App).
+6. Copy color values, share and use it anywhere you want.
 
 
 #### Text Editor or Code Editor
 
-Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.texteditor).
+Check the App on Google Play Store by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.texteditor).
 
-This app helps you read, edit and create text based files.
+This App helps you read, edit and create files.
 
-This app is a great text editor or notepad for Android devices.
-
-**The current version of this app(Text Editor) is only for Android 11 and above but the next version will be for Android 4 and above.**
-
-### Please do not forget to rate my apps on Google Play, thank you!
+This App is a great and fully customizable text editor or notepad for Android devices.
+You can change the font size, color, font family, text direction and alignment, the style (bold, italic, underlined), you can set paddings, you can change the background color of the Text Editor,...and much more. 
+Install the App and explore it by yourself. Enjoy and have fun!
 
 
-Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
+#### Do not forget to give my apps 5 🌟🌟🌟🌟🌟 on Play Store ;-) thanks!
+
+### Free Useful Online Tools and Software
+
+I have published many helpful and useful online tools and software that you can use for free without installing on your phone:
+
+1. Free Online QR-Code Generator for bank payment and URL/Link/Text.
+2. Free Online Math tools.
+3. Free Online Stylish Font/Text Generator.
+4. Free Online Money and Expenses Manager.
+5. Free Online Notepad or Text Editor (Fully Customizable)
+6. ... Visit all of them [here](https://aqyanoos.com/free-online-tools-software-apps.html)
+
+##### Visit my website regularly to stay up to date with my new free online tools, software, helpful and useful courses and articles.
+
+I consistently create and share free tools, software, courses, and articles for everyone to use and enjoy!
+
+[https://aqyanoos.com](https://aqyanoos.com)
+
 
 <!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 
@@ -95,9 +112,9 @@ Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
 - MS SQL and SQLite
 - Command-line(MS PowerShell)
 - Python
-- C# and ASP.Net Core MVC web app projects
-- Java(Fundamentals)
-- C++(Fundamentals)
+- C# and ASP.Net Core
+- Java
+- C++
 - Microsoft Server 2016/2019
 - Microsoft Office tools(Word, PowerPoint, Excel, Outlook, ...)
 - Microsoft Office365

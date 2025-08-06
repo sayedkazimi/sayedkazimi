@@ -75,6 +75,7 @@ I consistently create and share free tools, software, courses, and articles for 
 
 [https://aqyanoos.com](https://aqyanoos.com)
 
+Watch my free courses on YouTube [here](https://www.youtube.com/channel/UCf7acJJfY8vUaW_9Ef4CCkQ)
 
 <!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 

@@ -56,7 +56,7 @@ You can change the font size, color, font family, text direction and alignment, 
 Install the App and explore it by yourself. Enjoy and have fun!
 
 
-#### Do not forget to give my apps 5 🌟🌟🌟🌟🌟 on Play Store ;-) thanks!
+#### Do not forget to give my Apps 5 🌟🌟🌟🌟🌟 on Play Store ;-) Thanks!
 
 ### Free Useful Online Tools and Software
 
@@ -73,9 +73,9 @@ I have published many helpful and useful online tools and software that you can 
 
 I consistently create and share free tools, software, courses, and articles for everyone to use and enjoy!
 
-[https://aqyanoos.com](https://aqyanoos.com)
+[https://aqyanoos.com](https://aqyanoos.com) .
 
-Watch my free courses on YouTube [here](https://www.youtube.com/channel/UCf7acJJfY8vUaW_9Ef4CCkQ)
+Watch my free courses on YouTube [here](https://www.youtube.com/channel/UCf7acJJfY8vUaW_9Ef4CCkQ) .
 
 <!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 
